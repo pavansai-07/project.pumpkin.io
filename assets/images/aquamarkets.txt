@@ -1,0 +1,60 @@
+{"name": "RR Aqua Logistics",
+ "address":"Gopavarapugudem, Patamatalanka, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+ "image url": "https://lh3.googleusercontent.com/g0Lcf-psDlNggEOm9B8GwQX_flFyix6dSoIX90qzFp3iGNFDCAhwrhfnyJFfLI69hwxMPwSO=w1080-h608-p-no-v0",
+ "map url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15302.79329444938!2d80.6543536!3d16.4908063!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4784634936b74e6e!2sRR%20Aqua%20logistics!5e0!3m2!1sen!2sin!4v1606202279381!5m2!1sen!2sin" 
+}
+
+{"name": "MHM Live Fish and Organic Fish Market",
+ "address":"Vijayawada, Tadigadapa Donka Rd, Ramalingeswara Nagar, Vijayawada, Andhra Pradesh 520007",
+ "image url": "https://lh5.googleusercontent.com/p/AF1QipMeIA76KsqiPocuzeFTrD7Tr5F8e2JWxjQw5DA=w203-h114-k-no",
+ "map url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15303.797689594558!2d80.6781334!3d16.4780985!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x92c3425f36f858b9!2sMHM%20Live%20Fish%20and%20Organic%20Fish%20Market!5e0!3m2!1sen!2sin!4v1606202207870!5m2!1sen!2sin" 
+}
+
+{"name": "Modern Fish Market",
+ "address":"New Rajarajeswari Peta, Rajarajeswari Peta, Vijayawada, Andhra Pradesh 520015",
+ "image url": "https://lh5.googleusercontent.com/p/AF1QipOi0kOmVbxGpAvtk0Fe8P_pt6TYOM246ePiUsVA=w203-h114-k-no",
+ "map url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15299.46409991955!2d80.6259189!3d16.53286!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x92cafe4a95228135!2sModern%20Fish%20Market!5e0!3m2!1sen!2sin!4v1606203447724!5m2!1sen!2sin"  
+}
+
+{"name": "Kishore Live Fish",
+ "address": "21-11-21/1 ,Bapuji Rao Road Opposite to 13th line, Near Old Post Office, Madhuranagar,Vijayawada, Andhra Pradesh 520011",
+ "image url": "https://lh5.googleusercontent.com/p/AF1QipNJgst9LFXRWsrXdK1Y9gYjJmtvJ-2EfEtb3Xzb=w203-h203-k-no",
+ "map url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3824.999325682373!2d80.6477381148645!3d16.52613168860007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a35e545a4347065%3A0x56298182bad8eb01!2sKishore%20Live%20Fish%20%26%20Chicken!5e0!3m2!1sen!2sin!4v1606203899431!5m2!1sen!2sin" 
+}
+
+{"name": "NPK Live Fish",
+ "address": "Mahanadu Rd, opp. SML Isuze Service Center, Auto Nagar, Vijayawada, Andhra Pradesh 520007",
+ "image url": "https://lh5.googleusercontent.com/p/AF1QipNOZ4CqtKyFsK32srtswkoDn-7IaKc2Ag5NGSsr=w216-h100-k-no",
+ "map url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15301.227410060408!2d80.6773704!3d16.5105992!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9cb6b41ae5613fd7!2sNPK%20Live%20Fish!5e0!3m2!1sen!2sin!4v1606204422639!5m2!1sen!2sin" 
+}
+
+{"name": "Mahanti Fish Market",
+ "address": "Besant Rd, 2 Town, Governor Peta, Vijayawada, Andhra Pradesh 520002",
+ "image url": "https://lh5.googleusercontent.com/p/AF1QipML24niVCvZ5wr-pJrSui2zGyPOmnP6iWEwcr3I=w203-h114-k-no",
+ "map url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15301.204081533246!2d80.6264905!3d16.5108939!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x96fda47c541c8ff7!2sMahanti%20Fish%20%26%20Chicken%20Market!5e0!3m2!1sen!2sin!4v1606205153231!5m2!1sen!2sin"
+}
+
+{"name": "1 Town Fish Market",
+ "address":"Velagaleti Vari St, Kothapet, Islampet, Vijayawada, Andhra Pradesh 520001",
+ "image url": "https://lh5.googleusercontent.com/p/AF1QipMze5iW2XFajJrpApLp2C4IUi5uS2gOEn-N8V0i=w203-h152-k-no",
+ "map url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15300.796396301908!2d80.6142013!3d16.5160432!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3aa6bc77ba1c1ab2!2sFish%20Market!5e0!3m2!1sen!2sin!4v1606205734431!5m2!1sen!2sin"
+}
+
+{"name": "Basheer Khan Dry Fish",
+ "address":" Gulam Mohiddin Stree, Kothapet, Kothapet, Vijayawada, Andhra Pradesh 520001",
+ "image url": "",
+ "map url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15301.57603899517!2d80.6480608!3d16.5061945!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x54d035f1143e0572!2sBasheer%20Khan%20Dry%20Fish!5e0!3m2!1sen!2sin!4v1606205829637!5m2!1sen!2sin"
+}
+
+{"name": "ezyfish - Boneless Fish",
+ "address":" Patamata, Benz Circle, Vijayawada, Andhra Pradesh 520010",
+ "image url": "https://lh5.googleusercontent.com/p/AF1QipMynQ4kPo8B-UO78sGDmiC45BMhQWabkNGskHgW=w254-h142-k-no",
+ "map url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15302.376608276507!2d80.6574604!3d16.4960755!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1f09d8b50e04249a!2sEzy%20Fish%20Store!5e0!3m2!1sen!2sin!4v1606206403823!5m2!1sen!2sin"
+}
+
+{"name": "Kolleru Fish Land",
+ "address":"Beside RamPriya Theater, Poranki, Vijayawada, Andhra Pradesh 521137",
+ "image url": "https://lh5.googleusercontent.com/p/AF1QipOK82HaGWj43PG5X1ixQIntDRO8dTixbxWGYtyE=w203-h113-k-no",
+ "map url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15304.218752180475!2d80.7166332!3d16.4727683!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf1c8c3ad8a61c280!2sKolleru%20Fish%20Land!5e0!3m2!1sen!2sin!4v1606206614132!5m2!1sen!2sin"
+}
+
